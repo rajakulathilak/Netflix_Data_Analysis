@@ -30,7 +30,7 @@ The objective is to explore the data, identify meaningful patterns, and convert 
 ---
 
 # 📂 Dataset
-<a "https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/Netflix%20(1).csv">Netflix_Dataset</a>
+<a href="https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/Netflix%20%281%29.csv">Netflix Dataset</a>
 The dataset contains information about movies and TV shows available on Netflix.
 
 ### Important Features
@@ -317,7 +317,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 Open the notebook:
 
 
-<a "https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/notebook%20(1).ipynb">Netflix_python_code</a>
+<a href="https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/notebook%20(1).ipynb">Netflix_python_code</a>
 
 Run the cells sequentially to reproduce the analysis.
 
