@@ -59,7 +59,7 @@ The dataset contains information about movies and TV shows available on Netflix.
 * **NumPy**
 * **Matplotlib**
 * **Seaborn**
-* **Jupyter Notebook / Google Colab**
+* **Google Colab**
 
 ---
 
