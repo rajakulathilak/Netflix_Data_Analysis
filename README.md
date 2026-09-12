@@ -30,7 +30,7 @@ The objective is to explore the data, identify meaningful patterns, and convert 
 ---
 
 # 📂 Dataset
-<a 
+<a "https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/Netflix%20(1).csv">Netflix_Dataset</a>
 The dataset contains information about movies and TV shows available on Netflix.
 
 ### Important Features
@@ -314,17 +314,10 @@ git clone <your-github-repository-url>
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-### Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
 Open the notebook:
 
-```text
-Netflix_Data_Exploration.ipynb
-```
+
+<a "https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/notebook%20(1).ipynb">Netflix_python_code</a>
 
 Run the cells sequentially to reproduce the analysis.
 
@@ -370,7 +363,7 @@ The analysis helps understand Netflix's content mix, genre trends, geographic di
 
 ## 👤 Author
 
-**Raja**
+**Raja Kula Thilak**
 
 Aspiring Data Analyst | Python | SQL | Excel | Tableau | Data Analytics
 
