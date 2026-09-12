@@ -291,8 +291,8 @@ Instead of applying one global content strategy, Netflix can use country and gen
 ```text
 Netflix-Data-Exploration-and-Visualisation/
 │
-├── Netflix_Data_Exploration.ipynb
-├── netflix_titles.csv
+├── notebook (1).ipynb
+├── Netflix (1).csv
 ├── README.md
 └── images/
     └── visualisations/
@@ -305,13 +305,13 @@ Netflix-Data-Exploration-and-Visualisation/
 ### Clone the repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/rajakulathilak/Netflix_Data_Analysis/tree/main>
 ```
 
 ### Install the required libraries
 
 ```bash
-pip install pandas numpy matplotlib seaborn jupyter
+pip install pandas numpy matplotlib seaborn
 ```
 
 Open the notebook:
