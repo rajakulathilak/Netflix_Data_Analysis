@@ -195,10 +195,8 @@ monthly_report.png -  Analysis of Netflix content additions by month
 │
 ________________________________________
 🚀 How to Run the Project
-Clone the repository
-git clone <https://github.com/rajakulathilak/Netflix_Data_Analysis/tree/main>
-Install the required libraries
-pip install pandas numpy matplotlib seaborn
+Clone the repository:
+<a href=https://github.com/rajakulathilak/Netflix_Data_Analysis/tree/main>Git_clone</a>
 Open the notebook:
 <a href=https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/Netflix_Data_Analysis%20.ipynb> Netflix_Data_Analysis </a>
 Run the cells sequentially to reproduce the analysis.
