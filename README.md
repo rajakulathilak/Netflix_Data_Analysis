@@ -200,7 +200,7 @@ git clone <https://github.com/rajakulathilak/Netflix_Data_Analysis/tree/main>
 Install the required libraries
 pip install pandas numpy matplotlib seaborn
 Open the notebook:
-<a href=https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/Netflix_Data_Analysis.ipynb> Netflix_Data_Analysis </a>
+<a href=https://github.com/rajakulathilak/Netflix_Data_Analysis/blob/main/Netflix_Data_Analysis%20.ipynb> Netflix_Data_Analysis </a>
 Run the cells sequentially to reproduce the analysis.
 ________________________________________
 📌 Skills Demonstrated
